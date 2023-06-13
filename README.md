@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... Artifial Intelligence & Robotics
 - 🌱 I’m currently learning ... Graduate Level: Deep Learning & Machine Learning
 - 👯 I’m looking to collaborate on ... AI, Machine Learning & Deep Learning Projects
-- 📫 How to reach me: ... carlos.navarro@ttu.edu or via LinkedIn: Carlos Navarro Naranjo
+- 📫 How to reach me: ... c.navarro.engineering@gmail.com or via LinkedIn: Carlos Navarro Naranjo
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am currently pursuing a Masters in AI & Robotics at Texas A&M University 
 -->
